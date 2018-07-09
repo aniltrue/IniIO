@@ -1,0 +1,11 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\IniIO\IniIO\bin\Release\IniIO.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\IniIO\IniIO\bin\Release\IniIO.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\IniIO\IniIO\obj\Release\IniIO.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\IniIO\IniIO\obj\Release\IniIO.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\IniIO\IniIO\obj\Release\IniIO.pdb
+C:\Users\ceran\source\repos\IniIO\IniIO\bin\Release\IniIO.dll
+C:\Users\ceran\source\repos\IniIO\IniIO\bin\Release\IniIO.pdb
+C:\Users\ceran\source\repos\IniIO\IniIO\obj\Release\IniIO.csprojResolveAssemblyReference.cache
+C:\Users\ceran\source\repos\IniIO\IniIO\obj\Release\IniIO.csproj.CoreCompileInputs.cache
+C:\Users\ceran\source\repos\IniIO\IniIO\obj\Release\IniIO.dll
+C:\Users\ceran\source\repos\IniIO\IniIO\obj\Release\IniIO.pdb
